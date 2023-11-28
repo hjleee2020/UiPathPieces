@@ -5,6 +5,6 @@
 
 물론 해당 사용법을 모두 암기 할필요는 없다! 기본형만 익혀 놓고 쓸때마다 꺼내보자!
 
-`DateTime.Now.ToString()   
-DateTime.Now.ToString("MM/dd/yyyy hh:mm:ss")`
---> 11/28/2023 21:19:01`
+```DateTime.Now.ToString()   
+DateTime.Now.ToString("MM/dd/yyyy hh:mm:ss")```
+--> 11/28/2023 21:19:01
