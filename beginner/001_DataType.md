@@ -11,7 +11,9 @@
 |정수형|0을 포함한 정수|byte, short, int, long|
 |실수형|실수|float, double|
 |논리형|참, 거짓 같은 논리 값|boolean|
+
 <br><br>
+
 ## 3. UiPath에 자주 사용되는 변수
 |DataType|설명|예시|
 |------|---|---|
