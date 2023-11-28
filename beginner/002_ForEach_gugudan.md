@@ -5,7 +5,7 @@ Assign 하여 리스트 타입 변수에 "1,2,3,4,5,6,7,8,9"의 변수를 넣고
 여기서 주목할 부분은 ForEach에 currentitem에 aGugu 변수의 값이 순서대로 입력된다는 것이고,<br>
 0번부터 8번째까지 총 9번 foreach문이 작동하는 점이다.
 
-(:smile:보너스) 속성 부분에 TypeArgument 는 currentitem에 입력되는 변수를 지정하는 것!
+(:smile:보너스) 속성 부분에 TypeArgument 는 currentitem에 입력되는 변수 형태를 지정하는 것!
 
 <br>
 
