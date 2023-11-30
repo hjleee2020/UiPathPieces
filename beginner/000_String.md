@@ -36,3 +36,7 @@ str2 = str.Replace("CD","AA")
 ```string str = "123456789"
 str.Substring(0, 4) = 1234
 ```
+
+
+### 3. 정규표현식
+https://learn.microsoft.com/ko-kr/dotnet/standard/base-types/regular-expressions
